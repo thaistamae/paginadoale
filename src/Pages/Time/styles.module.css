@@ -1,0 +1,34 @@
+
+.Time{
+    background-image: url(../../Assets/Images/image\ \(4\).png);
+    width: 100%;
+    height: 1000px;
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.Time div{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    align-items: center;
+    
+}
+
+.Time img{
+    padding: 10px;
+    width: 500px;
+    height: 500px;
+}
+
+.likeButton{
+    background-color: light;
+    padding: 20px;
+    border: 1px solid black;
+}

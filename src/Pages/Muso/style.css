@@ -1,0 +1,10 @@
+.hob {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    padding: 0px 20px;
+    background: rgba(255, 255, 255, 0.637);
+    border: 2px solid rgb(0, 0, 0);
+    
+}
